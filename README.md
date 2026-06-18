@@ -14,14 +14,15 @@
 # 💻 Tech <span style="color:#FF9100">Stack</span>:
 
 # **Programming Languages:**
+https://skillicons.dev/icons?i=python,java,js,php,django,mysql,postgresql,git,github
 
-<div style="display:flex; justify-content:space-between;">
+<!-- <div style="display:flex; justify-content:space-between;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" />
-</div>
+</div> -->
 
 # **Web Development:**
 <div style="display:flex; justify-content:space-between;">
@@ -41,9 +42,10 @@
 </div >
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
+<p>
 ![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Larry-Thomzy)
-![Snake animation](https://github.com/YOUR_USERNAME/Larry-Thomzy/blob/output/github-contribution-grid-snake.svg)
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy)
 [![Larry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Larry-Thomzy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

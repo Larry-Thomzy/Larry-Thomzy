@@ -13,41 +13,46 @@
 
 # 💻 Tech <span style="color:#FF9100">Stack</span>:
 
-# **Programming Languages:**
-https://skillicons.dev/icons?i=python,java,js,php,django,mysql,postgresql,git,github
+## **Programming Languages:**
+<p>
+  <img src="https://skillicons.dev/icons?i=python"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=java"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=js"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=php"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=git"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=github">
+</p>
 
-<!-- <div style="display:flex; justify-content:space-between;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" />
-</div> -->
 
-# **Web Development:**
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="150"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg"width="150" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="150"/> <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="150" />         
-</div>
+## **Web Development:**
+<p>
+  <img src="https://skillicons.dev/icons?i=django"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=react"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=html"> &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=css">
+</p>
 
-# **Databases:**
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="100" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="100"/>    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="100"/>
-</div >
+
+## **Databases:**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql">  &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql">  &nbsp; &nbsp; &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb">  &nbsp; &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50">
+</p>
+
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
-<p>
-![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Larry-Thomzy)
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true">
+  <img src="https://streak-stats.demolab.com?user=Larry-Thomzy">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy)
-[![Larry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Larry-Thomzy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Larry-Thomzy">
+<img src="https://github.com/ashutosh00710/github-readme-activity-graph">
 
           
           

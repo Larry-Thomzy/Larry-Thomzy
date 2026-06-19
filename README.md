@@ -1,13 +1,15 @@
-# <h1 align="center">Olanrewaju Salawe</h1>
-<h3 align="center">AI Engineer | Generative AI Enthusiast | Software Developer 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&color=3377B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Olanrewaju+Salawe" />
+</p>
+
+<h2 align="center">Software Engineer🧑‍💻 | Tech Tutor 📚 | AI Engineer 🤖</h2>
 <br>
 
 # About <span style="color:#FF9100">Me</span>:
-🎓 I'm currently diving deeper into **Generative and Agentic AI** and exploring frameworks like **n8n and AI Agents**.  
-👨‍💻 Actively working on **AI/ML projects** and honing my skills in **Large Language Models (LLMs) and AI infrastructure**.  
-💬 Ask me about **AI, Programming, or anything tech-related**—I love sharing knowledge!  
-🌱 Learning: **Prompt Engineering, Fine-Tuning LLMs, and AI Deployment**.  
-✨ Fun fact: I believe AI can make life easier and more creative!  
+- <h4>👨‍💻 Software Engineer | Building Web, Mobile & AI systems</h4>
+- <h4>🧠 Generative AI Engineer — LLMs, agents & automation</h4>
+- <h4>📚 Tech Tutor — simplifying programming & CS concepts</h4>
+- <h4>⚙️ APIs • Software Architecture • AI Integrations</h4>
 
 ## 🚀 Portfolio: <a href="#">Visit My Portfolio</a>
 
@@ -45,10 +47,13 @@
 
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
-<div>
-  <img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true">
-  <img width="400" height="400" src="https://streak-stats.demolab.com?user=Larry-Thomzy">
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&text_color=0000ff"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larry-Thomzy&theme=github_dark&layout=compact&langs_count=8"/>
+
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larry-Thomzy&theme=github_dark&text_color=0000ff"/>
+</p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larry-Thomzy">

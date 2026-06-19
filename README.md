@@ -1,4 +1,4 @@
-<h1 align="center">Olanrewaju Salawe</h1>
+# <h1 align="center">Olanrewaju Salawe</h1>
 <h3 align="center">AI Engineer | Generative AI Enthusiast | Software Developer 🚀</h3>
 <br>
 
@@ -26,7 +26,7 @@
 
 
 ## **Web Development:**
-<p>
+<p width="100%">
   <img src="https://skillicons.dev/icons?i=django"> &nbsp; &nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=react"> &nbsp; &nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwindcss"> &nbsp; &nbsp; &nbsp;
@@ -45,10 +45,10 @@
 
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true">
-  <img src="https://streak-stats.demolab.com?user=Larry-Thomzy">
-</p>
+<div>
+  <img align="left" width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true">
+  <img width="400" height="400" src="https://streak-stats.demolab.com?user=Larry-Thomzy">
+</div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Larry-Thomzy">

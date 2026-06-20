@@ -48,12 +48,14 @@
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&text_color=0000ff"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Larry-Thomzy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp;
 
-  <img height="180em" src="https://github-readme-stats-ten-psi-odzdug6m1r.vercel.app/api/top-langs/?username=Larry-Thomzy&theme=github_dark&layout=compact&langs_count=8"/>
+  <img height="200em" src="https://github-readme-stats-ten-psi-odzdug6m1r.vercel.app/api/top-langs/?username=Larry-Thomzy&theme=github_dark&layout=compact&langs_count=8"/>
+  </br>
   
 
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larry-Thomzy&theme=github_dark&text_color=0000ff"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Larry-Thomzy&theme=github_dark"/>
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Larry-Thomzy)](https://github.com/ryo-ma/github-profile-trophy">

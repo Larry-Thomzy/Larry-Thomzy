@@ -48,7 +48,7 @@
 
 ## 📈 GitHub <span style="color:#FF9100">Statistics</span>:
 <p align="left">
-  <img height="195em" src="https://github-readme-stats-git-master-larry-thomzys-projects.vercel.app/api?username=Larry-Thomzy&show_icons=true&theme=github_dark&count_private=true"/>
+ <img height="195em" src="https://github-readme-stats-git-master-larry-thomzys-projects.vercel.app/api?username=Larry-Thomzy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;
 
   <img height="200em" src="https://github-readme-stats-ten-psi-odzdug6m1r.vercel.app/api/top-langs/?username=Larry-Thomzy&theme=github_dark&layout=compact&langs_count=8"/>
